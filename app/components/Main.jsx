@@ -3,7 +3,7 @@ var React = require('react');
 var Main = (props) => {
   return (
     <div>
-      <h2>Main Component</h2>
+      <h1>I am Main Componant. Who are you?</h1>
     </div>
   );
 }
