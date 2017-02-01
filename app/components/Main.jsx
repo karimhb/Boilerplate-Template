@@ -1,13 +1,11 @@
 var React = require('react');
 
-var Main = React.createClass({
-    render: function () {
-      return (
-        <div>
-          <h2>Main component</h2>
-        </div>
-    );
-    } 
- });
+var Main = (props) => {
+  return (
+    <div>
+      <h2>Main Component</h2>
+    </div>
+  );
+}
 
 module.exports = Main;

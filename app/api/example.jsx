@@ -1,3 +1,6 @@
+
+//Example API
+
 var axios = require('axios');
 
 const API_URL = 'api URL';

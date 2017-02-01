@@ -1,7 +1,7 @@
-Boilerplate templat
-//////
-
+Boilerplate templat //////
 
 npm install
+
 npm install init
-npm install -g webpack@1.12.13 
+
+npm install -g webpack@1.12.13
