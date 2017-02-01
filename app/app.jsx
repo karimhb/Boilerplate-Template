@@ -3,7 +3,7 @@ var ReactDOM = require('react-dom');
 var Main = require('Main');
 
 // Load styles 
-require('style!css!styles');
+require('style!css!sass!styles');
 
 ReactDOM.render(
   <div>
